@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/agrimarket/static/css/main.d07daa36.css",
+    "main.js": "/agrimarket/static/js/main.c7832443.js",
+    "index.html": "/agrimarket/index.html",
+    "main.d07daa36.css.map": "/agrimarket/static/css/main.d07daa36.css.map",
+    "main.c7832443.js.map": "/agrimarket/static/js/main.c7832443.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d07daa36.css",
+    "static/js/main.c7832443.js"
+  ]
+}
